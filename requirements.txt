@@ -1,0 +1,9 @@
+click==8.1.7
+fastapi==0.115.2
+uvicorn==0.30.5
+pyttsx3==2.90
+pydantic==2.7.4
+streamlit==1.38.0
+huggingface-hub==0.24.5
+python-dotenv==1.0.1
+requests==2.32.3
